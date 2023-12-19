@@ -1,34 +1,36 @@
 * {
-    margin: 0px;
-    padding: 0px;
+    	margin: 0px;
+    	padding: 0px;
+}
 
 body{
-    background-color: rgb(0, 0, 0);
-}
+    	background-color: rgb(0, 0, 0);
+} 
+
 .nav{
-    font-family: 'Loistave';
-    font-size: 18px;
+    	font-family: 'Loistave';
+    	font-size: 18px;
    	align-items: center;
-    position: fixed;
-    top: 0%;
-    left: 0%;
+    	position: fixed;
+    	top: 0%;
+    	left: 0%;
 	padding: 20px;
 	margin-right: 0%;
-    width: 100%;
-    z-index: 1000;
+    	width: 100%;
+    	z-index: 1000;
 	background-color: black;
 }
 	
 .nav a {
-    color: rgb(255, 255, 255);
-    text-decoration: none;
+    	color: rgb(255, 255, 255);
+    	text-decoration: none;
 	padding: 10px;
-    float:none;
+    	float:none;
 
 }
 
 .logo {
-    margin-top: 20px;
+    	margin-top: 20px;
 	margin-right: 1000px;
 }
 
@@ -51,29 +53,28 @@ body{
 	width: 100%;
 	margin-bottom: 0px;
 	border-radius: 0px;
-}
+} 
 .pelicula{
 	margin-bottom: -10%;
 
-}
+} 
 .sitges {
-    text-align: center;
-    margin-top: 20px;
+    	text-align: center;
+    	margin-top: 20px;
 }
 
 .sitges img {
 	justify-content: center;
-    display:fixed;
-	margin-top: 150px, auto /* Centrar la imagen horizontalmente */
-
+   	display:fixed;
+	margin-top: -10%; auto /* Centrar la imagen horizontalmente */
 }
 
 .sitges h1 {
-    margin-bottom: 10%;
+    	margin-bottom: 5%;
 }
 
 .sitges h2{
-	margin-top: 20px;
+	margin-top: -60px;
 	max-width: 800px;
 	color: rgb(255, 255, 255);
 	text-align: left;
@@ -81,18 +82,19 @@ body{
 	margin-left: 30%;
 	margin-right: 30%;
 }
-	
-	
-.sitges h4{
 
-    color:rgb(255, 255, 255);
-    text-align: left;
-    font-weight: normal;
+.sitges h4{
+    	color:rgb(255, 255, 255);
+    	text-align: left;
+    	font-weight: normal;
 	justify-content: center;
 	margin-left: 30%;
 	margin-right: 30%;
-	margin-bottom: 30%;
+	margin-bottom: 80px;
 
 }
-	
-	
+    	margin-left: 30%;
+	margin-right: 30%;
+	margin-bottom: 80px;
+
+}
