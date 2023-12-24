@@ -1,7 +1,7 @@
 # No Blood - Página Web
 
 ## Descripción
-"No Blood" es una página web ficticia que presenta contenido relacionado con películas de género de terror y suspenso. La página está diseñada para ofrecer información sobre películas, incluidos detalles como pósters, títulos y una interfaz de paginación simple.
+"No Blood" es una página web ficticia que presenta contenido relacionado con películas de género de terror y suspense. La página está diseñada para ofrecer información sobre películas, incluidos detalles como pósters, títulos y una interfaz de paginación simple.
 
 ## Características
 - **Navegación:** La página cuenta con una barra de navegación que te permite explorar diferentes categorías, como Terror, Sangre y Psicológico.
